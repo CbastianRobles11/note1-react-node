@@ -46,5 +46,17 @@
     "cypress": "^6.8.0",
     "eslint-plugin-cypress": "^2.11.2",
     "json-server": "^0.15.1"
-  }
+  },
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/midudev/notes-app-full-stack-bootcamp.git"
+  },
+  "author": "cbas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/midudev/notes-app-full-stack-bootcamp/issues"
+  },
+  "homepage": "https://github.com/midudev/notes-app-full-stack-bootcamp#readme"
 }
